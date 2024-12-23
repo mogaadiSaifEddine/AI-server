@@ -1,0 +1,49 @@
+{
+  "knowledge": {},
+  "relationships": {},
+  "generationRules": {},
+  "contextualMemory": {
+    "Ancient ruins": {
+      "content": {
+        "title": "Ancient Ruins - Athens Exploration",
+        "description": "Discover ancient ruins in Athens. Explore more with our location-based insights."
+      },
+      "timestamp": 1734525534444
+    },
+    "Color Game": {
+      "content": {
+        "title": "Fascinating Audio Guide: Color Game of Tunis",
+        "description": "Discover the rich history and culture through this immersive audio guide. Embark on a journey to discover hidden gems. Explore the wonders of Tunis. Let the narration lead you through a captivating experience."
+      },
+      "timestamp": 1734525763956
+    },
+    "Coulor Game": {
+      "content": {
+        "title": "Coulor Game Exploration",
+        "description": "Discover coulor game. Explore more with our location-based insights."
+      },
+      "timestamp": 1734525571435
+    },
+    "History": {
+      "content": {
+        "title": {},
+        "description": {}
+      },
+      "timestamp": 1734526358312
+    },
+    "game": {
+      "content": {
+        "title": {},
+        "description": {}
+      },
+      "timestamp": 1734526390256
+    },
+    "Captivating": {
+      "content": {
+        "title": {},
+        "description": {}
+      },
+      "timestamp": 1734526447739
+    }
+  }
+}
